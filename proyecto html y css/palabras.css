@@ -1,0 +1,32 @@
+#contenedor-principal {
+     color:black;
+     padding: 5px;
+     font-size: 10px;
+     background-color: yellow;
+     font-family: Georgia, 'Times New Roman', Times, serif;   
+} 
+
+.rectangulo {
+     padding: 5px; 
+     margin: 5px;
+}
+.px {
+     background-color: red; 
+     width: 200px;
+} 
+
+.vw { 
+    background-color: blue;
+    width: 20vw;
+}   
+ 
+.em { 
+    background-color: blueviolet; 
+    width: 15em; 
+    font-size: 5em; 
+
+}
+
+body {
+     background-color: black;
+} 

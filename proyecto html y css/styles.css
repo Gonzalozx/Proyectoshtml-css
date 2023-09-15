@@ -1,0 +1,93 @@
+h3 {
+     font-size: 50px;
+}
+
+h2 {
+     font-size: 30px; 
+     font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+ 
+h3 { 
+    color: rgb(226, 153, 43);
+ } 
+  
+ h2 { 
+  color: brown;
+ }
+
+ul { 
+    color: brown;
+}  
+ 
+p,
+ul,
+ol {
+     font-size: 20px;
+}    
+  
+li { 
+    color: rgba(189, 171, 8, 0.904); 
+    font-size: 15px;
+} 
+ 
+.imagen-de-pizza {
+    width: 500px; 
+    border-width: 5px; 
+    border-color: brown; 
+    border-style: solid dotted;
+}
+.imagen-de-lasaña { 
+    width: 500px;
+    border-width: 5px; 
+    border-color: brown; 
+    border-style: solid dotted;
+} 
+  
+.bordes-redondeados {
+     border-radius: 50px;
+}
+
+#Tipos-de-pizzas { 
+    text-align: center; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 30px; 
+} 
+
+#Mas-tipos-de-pizzas { 
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+} 
+
+
+img {  
+    margin:  20px 15px 10px 5px;
+    padding: 15px;  
+    padding-right: 15px; 
+    padding-left: 10px; 
+    padding-bottom: 5px;
+    background-color: yellow;
+    border-width: 2px; 
+    border-color: black;
+    border-style: solid;
+} 
+ 
+img[alt] {
+     border-radius: 50%;
+}  
+ 
+input[type="radio"] {  
+    margin: 5px 
+} 
+input[type="checkbox"] {
+     margin: 8px;
+} 
+a[href="https://www.google.com/search?sca_esv=562080135&sxsrf=AB5stBggOk5WS4CdtUvje6zYAMb5_3v5Qw:1693621119980&q=pizza&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj_8fWp7oqBAxVJL7kGHcyHAkoQ0pQJegQIDRAB&biw=958&bih=913&dpr=1"]{
+     color: green;
+     text-decoration: none; 
+     font-weight: bold;   
+} 
+
+a {
+     text-decoration: green wavy underline;
+}  
+ 
